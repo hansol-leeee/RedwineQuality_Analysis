@@ -1,6 +1,8 @@
 # RedwineQuality_Analysis
 Utility Economy Data Analysis Project
 
+![REDWINEQUALITYANALYSIS_0](https://user-images.githubusercontent.com/71228141/149621259-f4d02756-5867-483e-bc80-143d5b5d9455.jpg)
+
 ![REDWINEQUALITYANALYSIS_0](https://user-images.githubusercontent.com/71228141/149621170-e4183fbd-2ad3-4119-b9b6-8f1e459fdccd.jpg)
 ![REDWINEQUALITYANALYSIS_1](https://user-images.githubusercontent.com/71228141/149620757-7f045122-cb34-4349-9ee1-2ab4d20e10f9.jpg)
 ![REDWINEQUALITYANALYSIS_2](https://user-images.githubusercontent.com/71228141/149620759-a583ed22-c8de-4a60-8a10-b6509a21b4cb.jpg)
