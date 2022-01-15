@@ -1,9 +1,7 @@
 # RedwineQuality_Analysis
 Utility Economy Data Analysis Project
 
-![이한솔_2019110044-복사_1](https://user-images.githubusercontent.com/71228141/149621490-7c6f67b1-f738-457c-be81-3c49ba892015.jpg)
-![이한솔_2019110044-복사_1 - 복사본](https://user-images.githubusercontent.com/71228141/149621491-a76ead4d-1fe7-47c1-8d8a-131623ca9b3e.jpg)
-
+![REDWINEQUALITYANALYSIS_0](https://user-images.githubusercontent.com/71228141/149621518-b3f77cca-776e-4218-92f7-888c849c8a70.jpg)
 ![REDWINEQUALITYANALYSIS_1](https://user-images.githubusercontent.com/71228141/149620757-7f045122-cb34-4349-9ee1-2ab4d20e10f9.jpg)
 ![REDWINEQUALITYANALYSIS_2](https://user-images.githubusercontent.com/71228141/149620759-a583ed22-c8de-4a60-8a10-b6509a21b4cb.jpg)
 ![REDWINEQUALITYANALYSIS_3](https://user-images.githubusercontent.com/71228141/149620760-6d460c3c-ec8a-4a4e-b4b0-9117e933512a.jpg)
